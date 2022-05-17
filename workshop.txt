@@ -7,8 +7,11 @@ description=I've taken the PPG Pacecar and reskinned it to be a Kentucky State S
 description=
 description=Original vehicle ID remains the same:  [b]Base.ATADodgePpg[/b]
 description=
-description=Requires [url=https://steamcommunity.com/workshop/filedetails/?id=2743496289]ATA Dadge[/url] mod to be installed and loaded BEFORE this mod.
+description=Requires [url=https://steamcommunity.com/workshop/filedetails/?id=2743496289]ATA Dadge Steals[/url] mod to be installed and loaded BEFORE this mod.
 description=[i](For example Mods=ATA_Dadge;DadgePPGPolice)[/i]
+description=
+description=[h1]Source Code[/h1]
+description=This mod is open-sourced and published on [url=https://github.com/Orcicorn-ProjectZomboid/DadgePPGToPolice]Github[/url]
 description=
 description=[h1]Like what I'm doing?[/h1]
 description=[img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/like_favorite.gif[/img] [url=https://ko-fi.com/orcicorn][img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/kofi.png[/img][/url]
