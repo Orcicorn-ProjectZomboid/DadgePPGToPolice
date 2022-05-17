@@ -1,0 +1,16 @@
+version=1
+id=2809276103
+title=Dadge Steals PPG to Police Conversion
+description=If you use the Dadge Steals RT Twin Turbo '91 Mod by IBrRus you've probably come across the rare PPG Pacecar.   I wasn't a huge fan of the Yellow/pink combo and decided to reskin it to be a Police Interceptor.
+description=
+description=I've taken the PPG Pacecar and reskinned it to be a Kentucky State Sherriff Interceptor, including making the lightbar properly flash red and blue.  It has all the same functionality as the PPG Racecar including all the up-armoring that the ATADadge vehicles allow and it's spawn rarity.  It is simply now a police car. That's it.
+description=
+description=Original vehicle ID remains the same:  [b]Base.ATADodgePpg[/b]
+description=
+description=Requires [url=https://steamcommunity.com/workshop/filedetails/?id=2743496289]ATA Dadge[/url] mod to be installed and loaded BEFORE this mod.
+description=[i](For example Mods=ATA_Dadge;DadgePPGPolice)[/i]
+description=
+description=[h1]Like what I'm doing?[/h1]
+description=[img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/like_favorite.gif[/img] [url=https://ko-fi.com/orcicorn][img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/kofi.png[/img][/url]
+tags=Build 41;Textures;Vehicles
+visibility=public
